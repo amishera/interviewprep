@@ -1,6 +1,6 @@
 package jdk16;
 
-public class PatternMatchingExample {
+public class PatternMatchingInstanceOfExample {
     public static void main(String[] args) {
         Object obj = "Hello, Java 16!";
 
